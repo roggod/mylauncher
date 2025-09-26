@@ -1,0 +1,11 @@
+{
+  "appId": "MyFirstApp",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "MyFirstApp.exe",
+      "url": "https://github.com/username/mylauncher/releases/download/v1.0/MyFirstApp.exe",
+      "sha256": "ABCDEF123456..."
+    }
+  ]
+}
